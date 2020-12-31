@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VfB Stuttgart</title>
+  </head>
+  <body >
+
+         <h1>VfB Stuttgart - Die Website</h1>
+
+
+  <li>
+          <img src="logo.jpg" width="200" height="200">
+           <p>MENÜ</p>
+          <ul><a href="kader.html">Kader</a></ul>
+          <ul><a href="nextgames.html">Nächste Spiele</a></ul>
+          <ul><a href="Spielbericht.html">Spielbericht letztes Spiel</a></ul>
+         <ul><a href="news.html">News</a></ul>
+
+  </li>
+                  <img src="187.jpg" width="600" height="350">
+
+
+               <br>  <span>Der VfB Stuttgart hat gegen die TSG Hoffenheim nach starker Leistung ein 3:3 herausgespielt</span> <a href="Spielbericht.html">zum Spielbericht</a>
+
+
+
+
+
+  </body>
+</html>
